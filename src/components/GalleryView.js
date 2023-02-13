@@ -55,14 +55,13 @@ class GalleryView extends React.Component {
                <div className='GalleryView'>
                <div className='GalleryViewTitle'>-&nbsp; Silpa Raghava Botanica &nbsp;- </div>
                <div className='GalleryViewTitleBody'>Botanica Galleries </div>  
-               <div className='GalleryViewBody'>
-                   {images}
-                </div>
-
-            </div>
-            </>
-        )
-    }
-}
+               <div className='GalleryViewBody'> 
+                   {images} 
+                </div> 
+            </div> 
+            </> 
+        ) 
+    } 
+} 
 
 export default GalleryView;
