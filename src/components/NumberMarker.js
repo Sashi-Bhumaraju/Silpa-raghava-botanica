@@ -9,7 +9,7 @@ class NumberMarker extends React.Component {
     render()  {
 
         return (
-            <div style={{ position: 'absolute',width: '9px',height:'9px',display: 'flex', justifyContent:'center',alignItems:'center', top: this.props.top+'px', zIndex: '99', left: this.props.left+'px', borderRadius: '50%', color: 'white', backgroundColor:'red', fontSize: '7px',fontWeight:'bold', boxShadow : '0px 0px 0px #000000' }}>
+            <div style={{ position: 'absolute',height:'5px',display: 'flex', padding:'0px 3px', justifyContent:'center',alignItems:'center', top: this.props.top+'px', zIndex: '99', left: this.props.left+'px', borderRadius: '2px', color: 'white', backgroundColor:'red', fontSize: '3px',fontWeight:'bold', boxShadow : '0px 0px 0px #000000' }}>
               {this.props.markerNumber}
           </div>
         );
