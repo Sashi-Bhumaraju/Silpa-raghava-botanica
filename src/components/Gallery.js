@@ -27,7 +27,30 @@ class Gallery extends React.Component {
     render() {
 
         const images = [
-       
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-27.jpg?alt=media&token=e8754339-041a-4d48-9191-2dd2710c18c5',
+            dsc: '',
+          },
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-30.jpg?alt=media&token=89f4cc44-06a0-41f5-9791-5f3832712571',
+            dsc: '',
+          },
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-29.jpg?alt=media&token=5fb77e89-9e5d-48c6-ba3c-68936eff6128',
+            dsc: '',
+          },
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-28.jpg?alt=media&token=5e517f79-8281-42a4-8b74-e19e53281993',
+            dsc: '',
+          },
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-25.jpg?alt=media&token=cc213c11-ba6a-42f8-944e-ae4cf1d80db8',
+            dsc: '',
+          },
+          {
+            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-26.jpg?alt=media&token=11606a6d-9264-4cff-8c44-c04b3363f1d3',
+            dsc: '',
+          },
           {
             url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-16.jpg?alt=media&token=4b29ce03-4bd0-4774-96c6-96065cd9e186',
             dsc: '',
@@ -62,30 +85,6 @@ class Gallery extends React.Component {
           },
           {
             url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-24.jpg?alt=media&token=8882e8a0-82b7-42bd-8bfd-1996ccf42fc9',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-25.jpg?alt=media&token=cc213c11-ba6a-42f8-944e-ae4cf1d80db8',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-26.jpg?alt=media&token=11606a6d-9264-4cff-8c44-c04b3363f1d3',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-27.jpg?alt=media&token=e8754339-041a-4d48-9191-2dd2710c18c5',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-28.jpg?alt=media&token=5e517f79-8281-42a4-8b74-e19e53281993',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-29.jpg?alt=media&token=5fb77e89-9e5d-48c6-ba3c-68936eff6128',
-            dsc: '',
-          },
-          {
-            url: 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/gallery%2FBB%20REALTY-30.jpg?alt=media&token=89f4cc44-06a0-41f5-9791-5f3832712571',
             dsc: '',
           },
             {
