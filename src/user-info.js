@@ -24,7 +24,7 @@ const k = [
     "dimension": "-",
     "size": "-",
     "color" : "rgba(0, 255, 226, 0.1)",
-    "url" : 'https://images.unsplash.com/photo-1662329726775-a1a976939687?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
+    "url" : 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/main%2Fgarden.jpg?alt=media&token=3df11b53-41e3-4229-80f2-293e40118a18'
   },
   {
     "available": false,
@@ -39,19 +39,19 @@ const k = [
     "dimension": "-",
     "size": "-",
      "color" : "rgba(0, 255, 0, 0.1)",
-     "url" : 'https://images.unsplash.com/photo-1530406472580-81dc39c4babe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=846&q=80'
+     "url" : 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/main%2Fentrance.jpg?alt=media&token=e75ee70b-bacb-4509-96d1-13daf2146ac4'
   },
-  {
-    "available": false,
-    "coords": [6704, 5675, 7367, 5687,7353, 5865, 6694, 5843],
-    "name": "road",
-    "shape": "poly",
-    "facing": "-",
-    "dimension": "-",
-    "size": "-",
-     "color" : "rgba(0, 0, 0, 0.2)",
-     "url": 'https://images.unsplash.com/photo-1471958680802-1345a694ba6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=966&q=80'
-  },
+  // {
+  //   "available": false,
+  //   "coords": [6704, 5675, 7367, 5687,7353, 5865, 6694, 5843],
+  //   "name": "road",
+  //   "shape": "poly",
+  //   "facing": "-",
+  //   "dimension": "-",
+  //   "size": "-",
+  //    "color" : "rgba(0, 0, 0, 0.2)",
+  //    "url": 'https://images.unsplash.com/photo-1471958680802-1345a694ba6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=966&q=80'
+  // },
   {
     "available": false,
     "coords": [2090, 6676, 2951, 6544, 3046, 7008, 2123, 7011],
@@ -61,7 +61,7 @@ const k = [
     "dimension": "-",
     "size": "-",
     "color" : "rgba(255, 255, 226, 0.5)",
-    "url": 'https://images.unsplash.com/photo-1583594832003-8834a5fdf74c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
+    "url": 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/main%2Famazon.jpg?alt=media&token=4719593b-a124-4e55-92ae-04f86d7b5831'
   },
   {
     "available": false,
@@ -76,7 +76,7 @@ const k = [
     "dimension": "-",
     "size": "-",
      "color" : "rgba(255, 255, 226, 0.3)",
-     "url": 'https://images.unsplash.com/photo-1582481024061-4be0e115414f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=879&q=80'
+     "url": 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/main%2Fpowergrid.jpg?alt=media&token=eb14b043-9788-4574-a393-0eba44d7ac9a'
   },
   {
     "available": false,
@@ -91,7 +91,7 @@ const k = [
     "dimension": "-",
     "size": "-",
     "color" : "rgba(255, 255, 226, 0.3)",
-    "url": 'https://images.unsplash.com/photo-1582481024061-4be0e115414f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=879&q=80'
+    "url": 'https://firebasestorage.googleapis.com/v0/b/real-plots.appspot.com/o/main%2Ftransko.jpg?alt=media&token=0f44e9a7-6eda-410c-ba42-472346ddfb9c'
   }
 ]
 export default k;

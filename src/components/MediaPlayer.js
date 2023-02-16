@@ -43,7 +43,7 @@ class MediaPlayer extends React.Component {
          <img src={this.props.MediaIconLink}></img>
          </div>
          <div className='MediaDescrition'>
-         {this.props.MediaDescrition}
+         <div className='marquee'>{this.props.MediaDescrition}</div>
          </div>
          </div> </> }
          else {
@@ -59,13 +59,13 @@ class MediaPlayer extends React.Component {
                         <img src={this.props.MediaIconLink}></img>
                         </div>
                         <div className='MediaDescrition'>
-                        {this.props.MediaDescrition}
+                        <div className='marquee'>{this.props.MediaDescrition}</div>
                         </div>
                     </div>
-                    </>;
+                    </>
 
-        return(
-           body
+        return( 
+           body 
         )
          }
     }

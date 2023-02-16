@@ -7,7 +7,7 @@ import './Location.css'
 class Location extends React.Component {
 
     openLocation = () => {
-        var myWindow =  window.open('https://www.google.com/maps/d/u/0/viewer?mid=1Nsbh9TE-wz1N1OyQYNqNRTney1S6bas&ll=17.038119136330906%2C78.51705023422448&z=12','',`scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
+        var myWindow =  window.open('https://www.google.com/maps/place/Silpa+raghava+botanica/@17.051986,78.522689,481m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3bcbad0855b410e1:0x4d8a390e2e773e5c!8m2!3d17.051986!4d78.5248723!16s%2Fg%2F11t5tjtrq8','',`scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
         width=1000,height=500,left=180,top=120`)
       
        

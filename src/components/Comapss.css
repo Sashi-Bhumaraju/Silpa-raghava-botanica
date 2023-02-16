@@ -2,8 +2,8 @@
     position: absolute;
     left: 15px;
     bottom: 20px;
-    width: 43px;
-    height: 43px;
+    width: 48px;
+    height: 48px;
     background-color: rgba(0, 0, 0, 0.85);
     display: flex;
     flex-direction: column;
@@ -16,7 +16,7 @@
     color: black;
     font-weight: 600;
     color: white;
-    font-size: 8px;
+    font-size: 9px;
     margin-top: 5px;
     
 
@@ -24,8 +24,9 @@
 }
 .c-img{
     /* transform: rotate(-45deg); */
-    width: 22px;
+    width: 24px;
     filter: invert();
+    transform: rotate(180deg);
 
 }
 

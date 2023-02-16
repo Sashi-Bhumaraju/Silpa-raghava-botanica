@@ -194,15 +194,18 @@ class MyMap extends React.Component {
                             <NumberMarker  markerNumber={"Amazon Data Center"}
                                              top ={610}
                                              left= {220}></NumberMarker>    
-                            <NumberMarker  markerNumber={"250 Feet Wide Road"}
-                                             top ={518}
-                                             left= {630}></NumberMarker>     
-                            <NumberMarker  markerNumber={"Greenary Entrance"}
+                            <NumberMarker  markerNumber={"250 Ft' Wide Road"}
+                                             top ={520.5}
+                                             left= {630}
+                                             rotate></NumberMarker>     
+                            <NumberMarker  markerNumber={"Entrance"}
                                               top ={500}
                                               left= {610}></NumberMarker>  
                             <NumberMarker  markerNumber={"Botanica Garden"}
                                              top ={340}
-                                             left= {610}></NumberMarker>                                                                                                                                                                                                                                            
+                                             left= {610}
+
+                                             ></NumberMarker>                                                                                                                                                                                                                                            
                              {/* <div style={{ position: 'absolute',zIndex:99999999, top: '400px', right: '250px', transform:'rotate(-70deg)', backgroundColor:'#ffBe00', textShadow: '2px 2px 4px #000000' }}>
                              Tap on plot of your intrest
                               </div>
