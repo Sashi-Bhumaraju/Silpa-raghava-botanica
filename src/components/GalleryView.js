@@ -53,8 +53,8 @@ class GalleryView extends React.Component {
                {popUp}
                <div className='GalleryClose' onClick={this.props.handleShowGallery}>  <img  className='MediaCloseChild' src={close}></img> </div>
                <div className='GalleryView'>
-               <div className='GalleryViewTitle'>-&nbsp; Silpa Raghava Botanica &nbsp;- </div>
-               <div className='GalleryViewTitleBody'>Botanica Galleries </div>  
+               <div className='GalleryViewTitle'> </div>
+               <div className='GalleryViewTitleBody'>-&nbsp; Gallery &nbsp;-</div>  
                <div className='GalleryViewBody'> 
                    {images} 
                 </div> 
